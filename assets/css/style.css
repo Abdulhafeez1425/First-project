@@ -615,7 +615,7 @@ section {
 # My Services
 --------------------------------------------------------------*/
 .services .icon-box {
-  padding: 30px;
+  padding: 20px;
   position: relative;
   overflow: hidden;
   background: #fff;
@@ -623,6 +623,7 @@ section {
   transition: all 0.3s ease-in-out;
   text-align: center;
   border: 1px solid #fff;
+  margin-bottom: 4rem;
 }
 .services .icon {
   margin: 0 auto 20px auto;
@@ -630,17 +631,17 @@ section {
   display: inline-block;
   text-align: center;
   border-radius: 50%;
-  width: 72px;
-  height: 72px;
+  width: 70px;
+  height: 70px;
   background: #fff4df;
 }
 .services .icon i {
-  font-size: 36px;
+  font-size: 33px;
   line-height: 1;
   color: #ffb727;
 }
 .services .title {
-  font-weight: 700;
+  font-weight: 600;
   margin-bottom: 15px;
   font-size: 18px;
 }
@@ -667,6 +668,7 @@ section {
   background: linear-gradient(rgba(27, 47, 69, 0.8), rgba(27, 47, 69, 0.8)), url("../img/home-bg.jpg") center center;
   background-size: cover;
   padding: 100px 0;
+  margin-bottom: 3rem;
 }
 
 @media (min-width: 1365px) {
@@ -711,7 +713,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.png") no-repeat;
+  background: url("../img/hire00.png") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
